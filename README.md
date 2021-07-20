@@ -1,10 +1,10 @@
 # Frontend Technologies
-HTML
-CSS
-JavaScript
-Nunjucks
+- HTML
+- CSS
+- JavaScript
+- Nunjucks
 
 # Backend Technologies
-PosgreSQL
-Express
-Node.js
+- PosgreSQL
+- Express
+- Node.js
